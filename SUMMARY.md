@@ -1,0 +1,20 @@
+# Summary
+
+* [Outline](README.md)
+* [1 Introduction to pThread](outline.md)
+* [1.1 Configuration](configuration.md)
+* [1.2 Compile](compile.md)
+* [1.3 Race Condition](race-condition.md)
+* [1.4 Solution to Race Condition](solution-to-race-condition.md)
+* [1.5 Deadlock](deadlock.md)
+* [1.6 Solution to Deadlock](solution-to-deadlock.md)
+* [1.7 Passing Arguments](passing-arguments.md)
+* [1.8 Example using multi-threading](/example-using-multi-threading.md#example-using-multithreading)
+* [1.9 Pin a thread to a core](pin-a-thread-to-a-core.md)
+* [2 Introduction to OpenMP](2-introduction-to-openmp.md)
+* [2.1 Helloworld](21-helloworld.md)
+* [2.2 Parallel](22-parallel.md)
+* [2.3 Faster](23-faster.md)
+* [2.4 Synchronization](24-synchronization.md)
+* [2.5 References](25-references.md)
+
