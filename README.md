@@ -32,7 +32,5 @@ This lab is a simple tutorial on pThread and OpenMP. The following are the outli
 
 ---
 
-By Zhuangbin CHEN \(zbchen@cse.cuhk.edu.hk\)
-
-
+By CHEN Zhuangbin \(zbchen@cse.cuhk.edu.hk\)
 

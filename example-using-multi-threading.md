@@ -47,11 +47,6 @@ Then the result shall be:
 You are given the following starter code:
 
 ```c
-/*
-* CSCI3150 Assignment 3 - Implement pthread and openmp program
-*
-*/
-
 /* Header Declaration */
 #include <stdio.h>
 #include <pthread.h>
