@@ -93,5 +93,5 @@ int main(int argc, char *argv[]) {
 
 ### Solution
 
-Please find the solution package [here](https://github.com/DavinChern/csci3150-Fall17-lab11/blob/master/assets/MT_problem_soln.rar?raw=true).
+Please find the solution package [here](https://github.com/eric-lo/Solution-package/blob/master/MT_problem_soln.rar?raw=true).
 
