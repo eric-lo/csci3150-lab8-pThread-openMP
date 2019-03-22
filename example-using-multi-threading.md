@@ -93,7 +93,7 @@ int main(int argc, char *argv[]) {
 
 ### Solution
 
-Please find the solution package here\([https://github.com/eric-lo/Solution-package/blob/master/MT\_problem\_soln.rar?raw=true](https://github.com/eric-lo/Solution-package/blob/master/MT_problem_soln.rar?raw=true\)\)
+Please find the solution package here\([https://github.com/eric-lo/Solution-package/blob/master/MT\_problem\_soln.rar?raw=true](https://github.com/eric-lo/Solution-package/blob/master/MT_problem_soln.rar?raw=true%29\)）
 
 The link above has been updated.
 
